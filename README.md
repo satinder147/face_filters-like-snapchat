@@ -1,1 +1,1 @@
-# face_filters-like-snapchat-version-1
+# face_filters-like-snapchat
